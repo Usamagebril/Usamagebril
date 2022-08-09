@@ -10,7 +10,8 @@
   <li> I love searching and learning more about web and app development and also , Networks topics </li>
 </ul>
 <hr>
-
+<h3> My GitHub Stats </h3>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
