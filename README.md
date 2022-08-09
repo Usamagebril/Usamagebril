@@ -6,7 +6,11 @@
   <li> I have just participated in a cybersecurity training at NTI </li>
   <li> My goal this year is to start my freelancing business , start learning arduino and start learning some security tecuqes from TryToHackMe website       </li>
   <li> My Hobbies are ( Playing guitar , basketball and going to the gym ) </li>
-  <li> How to reach me <a href='https://heylink.me/usamagebril/'>https://heylink.me/usamagebril/</a></li>
+  <li> How to reach me <a href='https://heylink.me/usamagebril/'>hCLICK HERE TO SEE ALL MY PROFILES LINKS</a></li>
   <li> I love searching and learning more about web and app development and also , Networks topics </li>
-
 </ul>
+<hr>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
