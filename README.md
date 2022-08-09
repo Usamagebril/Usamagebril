@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Hello, My Name Is Usama</h1>
+<hr>
+<h3>A computer science student,IT Engineer, and Web Developer</h3>
+<hr>
+<ul>
+  <li> I have just participated in a cybersecurity training at NTI </li>
+  <li> My goal this year is to start my freelancing business , start learning arduino and start learning some security tecuqes from TryToHackMe website       </li>
+  <li> My Hobbies are ( Playing guitar , basketball and going to the gym ) </li>
+  <li> How to reach me <a href='https://heylink.me/usamagebril/'>https://heylink.me/usamagebril/</a></li>
+  <li> I love searching and learning more about web and app development and also , Networks topics </li>
 
-<!--
-**Usamagebril/Usamagebril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</ul>
